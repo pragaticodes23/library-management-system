@@ -13,7 +13,6 @@ A beginner-friendly Python console-based Library Management System that allows u
 • Delete books with confirmation
 • Prevent duplicate Book IDs
 • View library statistics:
-
 * Total books
 * Available books
 * Issued books
@@ -38,7 +37,6 @@ A beginner-friendly Python console-based Library Management System that allows u
 
 📚 Library Menu
 
-```text
 ====== LIBRARY MANAGEMENT MENU ======
 
 1. Add Book
